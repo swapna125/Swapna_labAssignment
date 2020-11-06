@@ -1,6 +1,7 @@
 
 /**
- * accepts the id and the age of people as a Map and decide if they are eligible for vote. 
+ * Author:Swapna
+ * Desc:accepts the id and the age of people as a Map and decide if they are eligible for vote. 
  * A person is eligible for vote if his age is greater than 18. 
  * Add the IDs of all the eligible persons to list and return the list. 
  */

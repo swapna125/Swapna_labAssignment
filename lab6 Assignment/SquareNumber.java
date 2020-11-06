@@ -1,7 +1,7 @@
 
 
-/**
- * an array of numbers and returns the numbers and their squares in Hashmap
+/**Author:Swapna
+ * Desc:an array of numbers and returns the numbers and their squares in Hashmap
  */
 import java.util.*;
 

@@ -1,6 +1,6 @@
 
-/**
- * array of integer elements and return the second smallest element in the array
+/**Author:Swapna
+ * Desc:array of integer elements and return the second smallest element in the array
  */
 import java.util.*;
 

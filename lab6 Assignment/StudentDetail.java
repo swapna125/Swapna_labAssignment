@@ -1,6 +1,7 @@
 
 /**
- * school offers medals to the students of tenth based on the following criteria 
+ * Author:Swapna
+ * Desc:school offers medals to the students of tenth based on the following criteria 
  * If(Marks>=90) : Gold 
  * If(Marks between 80 and 90) : Silver 
  * If(Marks between 70 and 80) : Bronze 

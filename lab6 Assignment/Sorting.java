@@ -1,9 +1,10 @@
 /**
- * hash map and return the values of the map in sorted order as a List.
+ * Author:Swapna
+ * Desc:hash map and return the values of the map in sorted order as a List.
  */
 import java.util.*;
 
-public class HashMapSorted {
+public class Sorting {
 	public static void main(String[] args) {
 		/**
 		 * HashMap declare and add value using put function

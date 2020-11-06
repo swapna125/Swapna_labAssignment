@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
  * 
- * @author Swapna
+ * Author: Swapna
  * Desc:Reverse the elements in the array and print the sorted array
  *
  */
